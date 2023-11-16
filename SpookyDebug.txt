@@ -1,0 +1,36 @@
+INFO:root:1423- Local PID
+INFO:root:TGODServer- Process Name
+INFO:root:### Create datastore bruh
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:### start ASYNC server, listening on /dev/ttyACM0 - serial
+INFO:pymodbus.logging:Server listening.
+INFO:root:Call Sucsessful, task created
+INFO:root:...       
+INFO:root:Byte String : b'\x01\x06\x00\x0b\x03\x82x\x99'
+INFO:root:...       
+INFO:root:  --  Hex Data  --  
+INFO:root:Hex Data: 0106000b03827899
+INFO:root:Slave ID: 01
+INFO:root:Function: 06
+INFO:root:Address: 000b
+INFO:root:Value: 0382
+INFO:root:...       
+INFO:root:  --  Int Data  --  
+INFO:root:Int Data: Non-used
+INFO:root:Slave ID: 1
+INFO:root:Function: 6
+INFO:root:Address: 11
+INFO:root:Value: 898
+INFO:root:...       
+INFO:root:Engine Running  --  11.0
+INFO:root:Critical Register Hit
+INFO:root:controllerRegister1Value is loaded with : 898
+INFO:root:RPM Polling   --  11.0
+INFO:root:Critical Register Hit
+INFO:root:controllerRegister2Value is loaded with : 898
+INFO:root:RPM Set   --  11.0
+INFO:root:Critical Register Hit
+INFO:root:controllerRegister3Value is loaded with : 898
+INFO:root:Comms Mode  --  11.0
+INFO:root:Critical Register Hit
+INFO:root:controllerRegister4Value is loaded with : 898
